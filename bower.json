@@ -22,7 +22,7 @@
         "globals"
     ],
     "main": [
-        "build/multiplex.js"
+        "src/multiplex.js"
     ],
     "ignore": [
         "*.log",
