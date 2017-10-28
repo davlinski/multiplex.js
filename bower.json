@@ -22,13 +22,12 @@
         "globals"
     ],
     "main": [
-        "src/multiplex.js"
+        "build/multiplex.js"
     ],
     "ignore": [
         "*.log",
         "*.yml",
         "/.*",
-        "/build",
         "/tasks",
         "/external",
         "/src/test",
